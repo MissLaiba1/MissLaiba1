@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MissLaiba1
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on on open-source projects
 - 📫 How to reach me  feel free to send me a DM on Instagram or email me at laibarazzaq2022@gmail.com
 - 😄 Pronouns: she/her
